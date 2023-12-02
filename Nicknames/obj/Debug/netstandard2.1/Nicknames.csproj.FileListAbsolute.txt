@@ -1,0 +1,11 @@
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\bin\Debug\netstandard2.1\Nicknames.deps.json
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\bin\Debug\netstandard2.1\Nicknames.dll
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\bin\Debug\netstandard2.1\Nicknames.pdb
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.AssemblyInfo.cs
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.dll
+C:\Users\brand\Desktop\Games\Lethal Company\Mods\Nicknames\Nicknames\obj\Debug\netstandard2.1\Nicknames.pdb
